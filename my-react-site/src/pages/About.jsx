@@ -15,7 +15,9 @@ function About() {
 
             <div className="center-section">
                 <div className="split-section">
-                    <img src={a_main} />
+                    <div className="split-img">
+                        <img src={a_main} />
+                    </div>
                     <div className="split-text">
                         <div className="split-title instrument-serif-regular-italic">Our Purpose</div>
                         <div className="split-body inter-regular">
@@ -42,7 +44,9 @@ function About() {
                             where information will be posted a week in advance. 
                         </div>
                     </div>
-                    <img src={a_left} />
+                    <div className="split-img">
+                        <img src={a_left} />
+                    </div>
                 </div>
             </div>
             <Footer />

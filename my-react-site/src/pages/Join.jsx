@@ -15,7 +15,9 @@ function Join() {
 
             <div className="center-section">
                 <div className="split-section">
-                    <img src={j_main} />
+                    <div className="split-img">
+                        <img src={j_main} />
+                    </div>
                     <div className="split-text">
                         <div className="split-body inter-regular">
                             Students can join at any time during the school year, with no experience or equipment necessary. 
@@ -34,11 +36,15 @@ function Join() {
                             If you would like to receive volunteer hours or have questions, message us through our social media.
                         </div>
                     </div>
-                    <img src={j_left} />
+                    <div className="split-img">
+                        <img src={j_left} />
+                    </div>
                 </div>
 
                 <div className="split-section">
-                    <img src={j_right} />
+                    <div className="split-img">
+                        <img src={j_right} />
+                    </div>
                     <div className="split-text">
                         <div className="split-title instrument-serif-regular-italic">
                         Membership Fee
