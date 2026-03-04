@@ -1,6 +1,4 @@
-# Club Website
-Multi-page website built with React + Vite then hosted on GitHub Pages.
----
+# Club Website built with React + Vite then hosted on GitHub Pages
 
 ## Instructions for Starting a React + Vite Project
 
@@ -25,8 +23,8 @@ npm install
 npm run dev
 ```
 
----
-##How to Host React + Vite Project on GitHub Pages
+
+## How to Host React + Vite Project on GitHub Pages
 
 1. Create a new repository for the React project and have the React app set up
 2. Once React app is set up, navigate to project directory in terminal
@@ -75,7 +73,6 @@ npm run build
 npm run deploy
 ```
 
----
 
-##Troubleshooting:
+## Troubleshooting:
 If running into errors with GitHub Pages or while creating the React app, check the Web Developer Tools console in your browser when running the app or after it's deployed on GitHub Pages.
