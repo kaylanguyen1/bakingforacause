@@ -19,7 +19,7 @@ function About() {
                         <img src={a_main} />
                     </div>
                     <div className="split-text">
-                        <div className="split-title instrument-serif-regular-italic">Our Purpose</div>
+                        <div className="split-title instrument-serif-regular-italic">our purpose</div>
                         <div className="split-body inter-regular">
                             Baking for a Cause is a student organization at UT Dallas dedicated to baking and donating specialty treats to shelters in the DFW area. 
                         </div>
@@ -31,7 +31,7 @@ function About() {
 
                 <div className="split-section">
                     <div className="split-text">
-                        <div className="split-title instrument-serif-regular-italic">Meeting Information</div>
+                        <div className="split-title instrument-serif-regular-italic">meeting information</div>
                         <div className="split-body inter-regular">
                             Our meetings are usually from 6-8 PM every other Thursday and Friday at Northside Clubhouse 1. 
                             No experience is necessary, and all ingredients, equipment, and recipes will be provided. 

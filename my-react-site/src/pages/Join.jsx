@@ -29,7 +29,7 @@ function Join() {
                 <div className="split-section">
                     <div className="split-text">
                         <div className="split-title instrument-serif-regular-italic">
-                            Volunteer Hours
+                            volunteer hours
                         </div>
                         <div className="split-body inter-regular">
                             Members can earn up to 2 hours per meeting or more by volunteering at our bake sales or Saturday donations. 
@@ -47,7 +47,7 @@ function Join() {
                     </div>
                     <div className="split-text">
                         <div className="split-title instrument-serif-regular-italic">
-                        Membership Fee
+                        membership fees
                         </div>
                         <div className="split-body inter-regular">
                             If you would like to join us after your first trial meeting, we would appreciate a payment of $15 for a year or $10 for a semester as part of your membership dues. 
